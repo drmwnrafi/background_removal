@@ -3,7 +3,8 @@ Clone the repo :
 ```bash
 git clone https://github.com/drmwnrafi/background_removal.git
 ```
-Make a new python virtual environment (optional) : 
+Make a new python virtual environment (optional) :
+<br>Conda virtual environment not working properly.
 ```bash
 python -m venv bg_erase
 source bg_erase/bin/activate  # For Mac or Linux
