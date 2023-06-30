@@ -1,7 +1,7 @@
 ## Background Removal
 > **Note**<br>
 > Quantized U2-Net Pre-trained from [Kikedao](https://github.com/xuebinqin/U-2-Net/issues/295).<br>
-> Original [U2-Net repo](https://github.com/xuebinqin/U-2-Net) and [paper](https://github.com/xuebinqin/U-2-Net).
+> Original [U2-Net repo](https://github.com/xuebinqin/U-2-Net) and [paper](https://arxiv.org/pdf/2005.09007.pdf).
 
 Clone the repo : 
 ```bash
